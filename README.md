@@ -8,7 +8,7 @@ The Raspberry Pi IoT Pager is a fun and useful project that demonstrates the pow
 
 # Demo
 
-![demo](./demo.gif)
+![demo](./demo.GIF)
 
 # Screenshot
 
