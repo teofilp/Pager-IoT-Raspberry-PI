@@ -93,3 +93,9 @@ $ sudo systemctl restart mosquitto
 ```
 
 Now Mosquitto is configured to accept WebSocket connections on port 1884 from any IP address. You can test the configuration by running a WebSocket client and connecting to `ws://<raspberry_pi_ip_address>:1884/`.
+
+5. Run backend application
+
+```bash
+$ python3 /path/to/code/backend/client.py
+```
